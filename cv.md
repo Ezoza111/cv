@@ -6,7 +6,7 @@
 ### Contact information:
 * **Phone:** +375255086099
 * **E-mail:** ezozakhudayberdieva@mail.ru
-* **[Github](адрес "https://github.com/Ezoza111")**
+* **[Github]("https://github.com/Ezoza111")**
 
 ***
 ### Briefly About Myself:
@@ -26,10 +26,10 @@ I want to get knowledge and skills that will be enough for employment in a compa
 
 ***
 ### Projects:
-  * **[puzzle-game](адрес "https://ezoza111-rss-puzzle.netlify.app/")** **[code in githab](адрес "https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/hangman")** 
-  * **[hangman-game](adpec "https://incomparable-pudding-33e6ab.netlify.app/")** **[code in githab](адрес "https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/hangman")**
-  * **[nonograms-game](adpec "https://poetic-bubblegum-daf553.netlify.app/")** **[code in githab](адрес "https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/nonograms")**
-  * **[CoffeeHouse-website](adpec "dashing-starlight-d389de")** **[code in githab](адрес "https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/coffee-house-week3")**
+  * #### **[puzzle-game]("https://ezoza111-rss-puzzle.netlify.app/")** (**[code in githab]("https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/hangman")**)
+  * #### **[hangman-game]("https://incomparable-pudding-33e6ab.netlify.app/")** (**[code in githab]("https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/hangman")**)
+  * #### **[nonograms-game]("https://poetic-bubblegum-daf553.netlify.app/")** (**[code in githab]("https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/nonograms")**)
+  * #### **[CoffeeHouse-website]("dashing-starlight-d389de")** (**[code in githab]("https://github.com/rolling-scopes-school/ezoza111-JSFE2023Q4/tree/coffee-house-week3")**)
 
 
  ***
